@@ -17,11 +17,6 @@
       alt="R" width="40" height="40"/> 
   </a>
   <a href="https://shiny.rstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png"
+    <img src="https://biii.eu/sites/default/files/2018-01/68747470733a2f2f7777772e7273747564696f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30342f7368696e792e706e67.png"
       alt="R Shiny" width="40" height="40"/> 
   </a>
-  <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/RStudio_Logo.png"
-      alt="RStudio" width="40" height="40"/>
-  </a>
-</p>
